@@ -1,0 +1,2332 @@
+{
+  "version": "latest",
+  "baselines": {
+    "policheck": {
+      "name": "policheck",
+      "createdDate": "2021-07-30 22:15:26Z",
+      "lastUpdatedDate": "2021-07-30 22:15:26Z"
+    }
+  },
+  "results": {
+    "1147b10fd92d23e6acc5c00499e005b4d82ad71085abe4277e4216ead76c3893": {
+      "signature": "1147b10fd92d23e6acc5c00499e005b4d82ad71085abe4277e4216ead76c3893",
+      "alternativeSignatures": [
+        "59d7a85fdb69d35b7a433270a97f1006a000f8920d51612acd6f68740295f80e"
+      ],
+      "target": "/sdk/communication/Azure.Communication.PhoneNumbers/README.md",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "289140f9cee5390d101ff022b2ca759fabc7ac754e91a8337e1bffca58ed113b": {
+      "signature": "289140f9cee5390d101ff022b2ca759fabc7ac754e91a8337e1bffca58ed113b",
+      "alternativeSignatures": [
+        "25af3420c8d24cf6eb8f46de8d392c591b1487b01fda0baa2200401cd9d59d09"
+      ],
+      "target": "/sdk/eventhub/Azure.Messaging.EventHubs/CONTRIBUTING.md",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1005",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "9ae575aac6efdfae9822e4426e2a20910e712b6a9b80c54c0830c77bdc4713d6": {
+      "signature": "9ae575aac6efdfae9822e4426e2a20910e712b6a9b80c54c0830c77bdc4713d6",
+      "alternativeSignatures": [
+        "7843717f202fc2cb9d9e48b7f083ac76ac515463069fc0858294d22b0fdc1f9c"
+      ],
+      "target": "/sdk/eventhub/Microsoft.Azure.EventHubs.Processor/CHANGELOG.md",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1005",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "711796de7e5e38907e9145072e10f3e3a666a714ab98c420ca5c2647994f3bcb": {
+      "signature": "711796de7e5e38907e9145072e10f3e3a666a714ab98c420ca5c2647994f3bcb",
+      "alternativeSignatures": [
+        "b9e962e0ba08c67ce7f81626dcab1941c7ea176ef3046c0e96f5f5614193b875"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/UpgradeLog.htm",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "54a69d5c73625f54fa56857e68d2e484a940d5c21f0e2e8b665906677cb98aeb": {
+      "signature": "54a69d5c73625f54fa56857e68d2e484a940d5c21f0e2e8b665906677cb98aeb",
+      "alternativeSignatures": [
+        "0a4b206fd7253e399f650c764e398e8a9329dfb72323566d4a418837f41b0587"
+      ],
+      "target": "/sdk/search/Azure.Search.Documents/README.md",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "dd0ce4d0de77d3a56a564e8737a89b7da88dd7694566c20766fe8cd162b87979": {
+      "signature": "dd0ce4d0de77d3a56a564e8737a89b7da88dd7694566c20766fe8cd162b87979",
+      "alternativeSignatures": [
+        "bb3b8556786e8337f1822832095201f4b3ae18a6b040bc469343d5183e40d2ca"
+      ],
+      "target": "/sdk/storage/Azure.Storage.Blobs/CHANGELOG.md",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1005",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "b3b14dd087e78d2849c3fa65c16c02410e12238710f62c664d214087bb126744": {
+      "signature": "b3b14dd087e78d2849c3fa65c16c02410e12238710f62c664d214087bb126744",
+      "alternativeSignatures": [
+        "155b323fbce95fb227842fa92733fb4f769297377eb2f7949e3aa5901baa575e"
+      ],
+      "target": "/sdk/storage/Azure.Storage.Files.DataLake/CHANGELOG.md",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1005",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "2545379a09fcd5a6b2b2e5f1ff9e391b93f6c772aef5c281597d1e5a073c2425": {
+      "signature": "2545379a09fcd5a6b2b2e5f1ff9e391b93f6c772aef5c281597d1e5a073c2425",
+      "alternativeSignatures": [
+        "165d23786178b1e7be295447aebc82015752facc89e81df8617421d2029c6cf7"
+      ],
+      "target": "/sdk/storage/Azure.Storage.Files.Shares/CHANGELOG.md",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1005",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "a78a81650e94079cfdce55ec87edd0c76ad7837315008d9d454d0595a47b15e4": {
+      "signature": "a78a81650e94079cfdce55ec87edd0c76ad7837315008d9d454d0595a47b15e4",
+      "alternativeSignatures": [
+        "0c0bad973aa1af771949ca802934010d121d425e0252229f9df9c065f8cfe3d5"
+      ],
+      "target": "/sdk/textanalytics/Azure.AI.TextAnalytics/README.md",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "ab2cbfa6dea7030f4c934a5006f7682023c81d5cc1cc12119a5afc8d031860d1": {
+      "signature": "ab2cbfa6dea7030f4c934a5006f7682023c81d5cc1cc12119a5afc8d031860d1",
+      "alternativeSignatures": [
+        "cb513dea1c142fe55cb610612fa1dc11ffaadc2082ff236f3a079a860e81a816"
+      ],
+      "target": "/sdk/core/Azure.Core/src/Response.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1005",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "93569980bccc6f405abaea0a0faffa819d38e2658e1d7f0bca42a8341b63e9dd": {
+      "signature": "93569980bccc6f405abaea0a0faffa819d38e2658e1d7f0bca42a8341b63e9dd",
+      "alternativeSignatures": [
+        "e21ffca581af64e14c82386dc12359417c330febc4b929dfc410e085c15875c2"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/api/Azure.ResourceManager.Network.netstandard2.0.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "02dae024d182527b70cc912a3b34a26d1440b1ac46d6459283fdbe6e38861e66": {
+      "signature": "02dae024d182527b70cc912a3b34a26d1440b1ac46d6459283fdbe6e38861e66",
+      "alternativeSignatures": [
+        "877d0e377a401410a9dc8f1aa5d851cff1ef25539817561f88f9dfec335dd6cc"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/api/Azure.ResourceManager.Network.netstandard2.0.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "54b0d47d488b4f5345fb41db8a3c5d12cd451232bb67121f68c608eed2d2e8a0": {
+      "signature": "54b0d47d488b4f5345fb41db8a3c5d12cd451232bb67121f68c608eed2d2e8a0",
+      "alternativeSignatures": [
+        "aa1d203e095ae8bc25bbeacb37910c64f15527c5abd0f900d5d16a14a9c48f0b"
+      ],
+      "target": "/sdk/search/Azure.Search.Documents/samples/Sample02_Service.md",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "f9b339902e43babb842dcc44107f6b86c14600c1f95e851fced32ae1505a5673": {
+      "signature": "f9b339902e43babb842dcc44107f6b86c14600c1f95e851fced32ae1505a5673",
+      "alternativeSignatures": [
+        "94a4861624c933e9f04dcc1303e04058ca39409f2cddc85a7a726a6538d0bbdf"
+      ],
+      "target": "/sdk/search/Microsoft.Azure.Search.Data/src/generate.ps1",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1005",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "fba6c68b49ef479367e377e7379f00023cdd3522ad8ea5f6fffcbb79ec298e66": {
+      "signature": "fba6c68b49ef479367e377e7379f00023cdd3522ad8ea5f6fffcbb79ec298e66",
+      "alternativeSignatures": [
+        "49ecf884c60692eef667241be207b8ac2acee87de06f62e2b3459897018bd1eb"
+      ],
+      "target": "/sdk/storage/Azure.Storage.Queues/src/QueueClient.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "577c754bc72598e3fc7f28fbdb9ace9e3ea57f7f7194a699bc4f6a72d100afa2": {
+      "signature": "577c754bc72598e3fc7f28fbdb9ace9e3ea57f7f7194a699bc4f6a72d100afa2",
+      "alternativeSignatures": [
+        "80f495e636b1e9ffbc01bbbd6db3287859cdb73e6f68160443cce6e087246463"
+      ],
+      "target": "/sdk/textanalytics/Azure.AI.TextAnalytics/src/DetectLanguageInput.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "60c1cbffe69baa8d19f7af14e6d81e85da324cc6ef91941ba1591fa04791774a": {
+      "signature": "60c1cbffe69baa8d19f7af14e6d81e85da324cc6ef91941ba1591fa04791774a",
+      "alternativeSignatures": [
+        "8e7c820b32949bc8202a049b19ad66c06580a539684cdb8aabf12c59750a34f0"
+      ],
+      "target": "/sdk/textanalytics/Azure.AI.TextAnalytics/src/TextAnalyticsClient.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "614549f5432299f3267513766a196b6cb931ae2dca63a3c1e011bc2e962c646d": {
+      "signature": "614549f5432299f3267513766a196b6cb931ae2dca63a3c1e011bc2e962c646d",
+      "alternativeSignatures": [
+        "a7e64317b4b2490f35cff718a03dd0ccf54d4144a66b9a289955c9e71424de85"
+      ],
+      "target": "/sdk/textanalytics/Azure.AI.TextAnalytics/src/TextAnalyticsClientOptions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "2f8e027d2eeda36f2bdfb687b0ab0c9d280f95cd782e15acdb62366cfb6b8010": {
+      "signature": "2f8e027d2eeda36f2bdfb687b0ab0c9d280f95cd782e15acdb62366cfb6b8010",
+      "alternativeSignatures": [
+        "837e510fa171ba8eed8f5e3bf1629adda07615a445ef76372deb6b573a7dd7c7"
+      ],
+      "target": "/sdk/textanalytics/Azure.AI.TextAnalytics/src/TextAnalyticsErrorCode.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "d6a042c8058b1362b3c90a6d07ca08d6713a82b00073d8dc54c0b6a4422b44b8": {
+      "signature": "d6a042c8058b1362b3c90a6d07ca08d6713a82b00073d8dc54c0b6a4422b44b8",
+      "alternativeSignatures": [
+        "370eb28316fe24a52b80d9b4385619a351f7dfcda90c083d42aa70d3c8bc8d74"
+      ],
+      "target": "/sdk/batch/Microsoft.Azure.Batch/src/Common/RetryPolicyCommon.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "d6eb759fe280cc3cb2b4f65b2a805a00f894c3c1b9c74f44044dd6c13082d403": {
+      "signature": "d6eb759fe280cc3cb2b4f65b2a805a00f894c3c1b9c74f44044dd6c13082d403",
+      "alternativeSignatures": [
+        "626ee90af52198d632544a327b6b7863fed8fe21b0f189ac9f54748cefdbdbe7"
+      ],
+      "target": "/sdk/cognitiveservices/Language.SpellCheck/src/Generated/ISpellCheckClient.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "36197a684782b13e35ec1dbe472d087057b04bc0e6070fc481e96fa1d273319f": {
+      "signature": "36197a684782b13e35ec1dbe472d087057b04bc0e6070fc481e96fa1d273319f",
+      "alternativeSignatures": [
+        "7dd769a4e3b809d36735262d1a65b05060e5deb4975edf55c9e070e4bc018675"
+      ],
+      "target": "/sdk/cognitiveservices/Language.SpellCheck/src/Generated/SpellCheckClient.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "ce66c872fc654bed23631884e02c3a3a21e0829aa24a80bd7d2eec044d8282c4": {
+      "signature": "ce66c872fc654bed23631884e02c3a3a21e0829aa24a80bd7d2eec044d8282c4",
+      "alternativeSignatures": [
+        "98526fd984590de925a683f4154a5db98f0ea8b822516a3fdd0d3fd56525b261"
+      ],
+      "target": "/sdk/cognitiveservices/Language.SpellCheck/src/Generated/SpellCheckClientExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "136096e0a5b50c9019d2bf5e5b70772564a24eaea7c3ae5f704fee68636a06f7": {
+      "signature": "136096e0a5b50c9019d2bf5e5b70772564a24eaea7c3ae5f704fee68636a06f7",
+      "alternativeSignatures": [
+        "5325b7d16352eea770af179e2c75da02ae637f12318b3667ce78afabc294698b"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingVisualSearch/src/Customizations/IImages.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "318ff8ad49ffbbdf95e3b6e3188e3f6a47a401f7b8469dca54baeff6f4d23756": {
+      "signature": "318ff8ad49ffbbdf95e3b6e3188e3f6a47a401f7b8469dca54baeff6f4d23756",
+      "alternativeSignatures": [
+        "432e12b1ac65d1457887198638f6c61ea2825339ec7ecd87b80943cbdfd85f90"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingVisualSearch/src/Customizations/Images.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "7ed581d36f4325396cde1a57798fcae8a05707898041344925c4dcb58533cde6": {
+      "signature": "7ed581d36f4325396cde1a57798fcae8a05707898041344925c4dcb58533cde6",
+      "alternativeSignatures": [
+        "19f31088f03fda633abad13e068c3e3a1283016ab9de70508e6aaed38f5952e4"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingVisualSearch/src/Customizations/ImagesExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "8f2f7375c0b041fdee130c82b2797d25e0bfbce4ea96b773edaad19e2e1061b8": {
+      "signature": "8f2f7375c0b041fdee130c82b2797d25e0bfbce4ea96b773edaad19e2e1061b8",
+      "alternativeSignatures": [
+        "eab79826bd28dbd75b8f5e7a1837aa5d4e5a0ae9d9fa2d306ba655184ab44439"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingVisualSearch/src/Generated/IImages.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "8f0ebf1e52c346d63e900d449a1e0cb30a2a35b0ea595f12624c1e1f5f1cafd8": {
+      "signature": "8f0ebf1e52c346d63e900d449a1e0cb30a2a35b0ea595f12624c1e1f5f1cafd8",
+      "alternativeSignatures": [
+        "e0a125a0015e8dec7510780edaafae64fdf56a41b9a12468c87dcc68aef08def"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingVisualSearch/src/Generated/Images.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "1642d1ffbe56cb2fa4cb213ec68cbc0f64f542b803c70911fd7ee83fadb05b46": {
+      "signature": "1642d1ffbe56cb2fa4cb213ec68cbc0f64f542b803c70911fd7ee83fadb05b46",
+      "alternativeSignatures": [
+        "c9d1e794840419e3013e56b12ad7cba2928b47047100000925689c8c7252bb8b"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingVisualSearch/src/Generated/ImagesExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "c507d9fde4bb8412feae6f0c6770139d54058c801df50fcbb1616add5d16f14a": {
+      "signature": "c507d9fde4bb8412feae6f0c6770139d54058c801df50fcbb1616add5d16f14a",
+      "alternativeSignatures": [
+        "8f42f5223c33cf4471e9425cf7e61030a223c9bf9a02c9e900f0595f97af2e32"
+      ],
+      "target": "/sdk/cognitiveservices/Vision.ContentModerator/src/Generated/ITextModeration.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "aeb9d760690c601b01132d6abbf2c392300e4abc3ba57917a0df19ebb5ef546d": {
+      "signature": "aeb9d760690c601b01132d6abbf2c392300e4abc3ba57917a0df19ebb5ef546d",
+      "alternativeSignatures": [
+        "86cb9dbf6eff076d1014e18c0be1ebd95748bfaf85185b308bf6aa2f3fcabc27"
+      ],
+      "target": "/sdk/cognitiveservices/Vision.ContentModerator/src/Generated/TextModeration.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "d830cfbf46bb597e97539a39be05f6ec78a894a0eb75f3efe3cdb2febedcc84f": {
+      "signature": "d830cfbf46bb597e97539a39be05f6ec78a894a0eb75f3efe3cdb2febedcc84f",
+      "alternativeSignatures": [
+        "287edf832ac52ba8e551c7c6825552d41acff23214d252792ca263453b1a81c4"
+      ],
+      "target": "/sdk/cognitiveservices/Vision.ContentModerator/src/Generated/TextModerationExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "addcdb5f4b477f0043e6723ef5da1c986974df9c525f4eda4c3b4c508008776c": {
+      "signature": "addcdb5f4b477f0043e6723ef5da1c986974df9c525f4eda4c3b4c508008776c",
+      "alternativeSignatures": [
+        "d00ebcc49c7d16549932accf0ac336af70780b2f2062d6655357f8a4d13967e5"
+      ],
+      "target": "/sdk/communication/Azure.Communication.PhoneNumbers/src/Generated/InternalPhoneNumbersRestClient.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "cd1169e57f8bcf1ea720b3f737d35a24f97dbde18528f6afde3e78a804d9f0cd": {
+      "signature": "cd1169e57f8bcf1ea720b3f737d35a24f97dbde18528f6afde3e78a804d9f0cd",
+      "alternativeSignatures": [
+        "a182e4f254521b9d75b2a70783ab0e6518c40d5efc6d5e3b495e24f277f1abd0"
+      ],
+      "target": "/sdk/communication/Azure.Communication.PhoneNumbers/src/Models/PhoneNumbersModelFactory.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "6217eb7cc134ddaaa46d57da79115c4355de1a188b74b3055543935ce6e5786f": {
+      "signature": "6217eb7cc134ddaaa46d57da79115c4355de1a188b74b3055543935ce6e5786f",
+      "alternativeSignatures": [
+        "df3318c8ce72fd1f7e326e473f81e7d8f678d5501155ce704949a6c7ccb6d1e8"
+      ],
+      "target": "/sdk/eventhub/Azure.Messaging.EventHubs.Shared/src/Testing/EventHubsTestEnvironment.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1005",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "01068e69b5355fd0a58312986aa615591981d79d530c40e96b74e08fa65c677e": {
+      "signature": "01068e69b5355fd0a58312986aa615591981d79d530c40e96b74e08fa65c677e",
+      "alternativeSignatures": [
+        "e675f7b46797d551cde7ca68082ffa5bf8df6fd2ee66573f3d992edfbc61f8d7"
+      ],
+      "target": "/sdk/frontdoor/Microsoft.Azure.Management.FrontDoor/src/Generated/IReportsOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "efbb7151c238e1dbe8bc03fe1746c33ebec4fb53d06aa5ce33220e6b277b6b88": {
+      "signature": "efbb7151c238e1dbe8bc03fe1746c33ebec4fb53d06aa5ce33220e6b277b6b88",
+      "alternativeSignatures": [
+        "e8c2a6a44f1c2d2d6b471e299a2670bda01e048a20fcbeb05f81a304297c5604"
+      ],
+      "target": "/sdk/frontdoor/Microsoft.Azure.Management.FrontDoor/src/Generated/ReportsOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "60fad5b216ecf5e1ab5504cb6550114da79509bd37c43c23a94645af3df15ad7": {
+      "signature": "60fad5b216ecf5e1ab5504cb6550114da79509bd37c43c23a94645af3df15ad7",
+      "alternativeSignatures": [
+        "9a6e60e097e20ed71abc9b70a56335a520ef789a05c6502d4c784d8f1219f9fd"
+      ],
+      "target": "/sdk/frontdoor/Microsoft.Azure.Management.FrontDoor/src/Generated/ReportsOperationsExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "40b8881ffc7b7e16111a00364325f329d8f363845d471d56b1bcc74af4e55557": {
+      "signature": "40b8881ffc7b7e16111a00364325f329d8f363845d471d56b1bcc74af4e55557",
+      "alternativeSignatures": [
+        "39f5e8af532ea83fc51e069e1943e7c72ab6f215d40f6a15a3341a638fe1cd62"
+      ],
+      "target": "/sdk/peering/Microsoft.Azure.Management.Peering/src/Generated/IPeeringServiceCountriesOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "c5830f8044668a91fc7408fad2ce7232f7468cbfbe51ecec09be39ee709af894": {
+      "signature": "c5830f8044668a91fc7408fad2ce7232f7468cbfbe51ecec09be39ee709af894",
+      "alternativeSignatures": [
+        "502311eff3bc5a540685124f06f937779c6ad5adf669e000546bc5e58f630213"
+      ],
+      "target": "/sdk/peering/Microsoft.Azure.Management.Peering/src/Generated/IPeeringServiceLocationsOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "920b85a897a5e09ac52009ae11b10726e4c96cae3911fb671e7861395a540ac9": {
+      "signature": "920b85a897a5e09ac52009ae11b10726e4c96cae3911fb671e7861395a540ac9",
+      "alternativeSignatures": [
+        "e813380bfd07e2a2a5d20eb3b1a1462135257310b82ec55afff5468acc99bc78"
+      ],
+      "target": "/sdk/peering/Microsoft.Azure.Management.Peering/src/Generated/PeeringServiceCountriesOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "f2af0023b5369d16791ed87e38e154816c159423f69ce8bdd760e655552abe16": {
+      "signature": "f2af0023b5369d16791ed87e38e154816c159423f69ce8bdd760e655552abe16",
+      "alternativeSignatures": [
+        "eba4856933cae8108918d9e767a280e28349d09092bd735c63d628b077526767"
+      ],
+      "target": "/sdk/peering/Microsoft.Azure.Management.Peering/src/Generated/PeeringServiceCountriesOperationsExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "f2330b09ead2957b2ca7c4ee13659389d733ae991d84a6ff97569ffc85bf50cc": {
+      "signature": "f2330b09ead2957b2ca7c4ee13659389d733ae991d84a6ff97569ffc85bf50cc",
+      "alternativeSignatures": [
+        "c4c7c9358dc7e8ca99a8dfcf401e76128ec0979cb13d5aec105cc78af0bad7c4"
+      ],
+      "target": "/sdk/peering/Microsoft.Azure.Management.Peering/src/Generated/PeeringServiceLocationsOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "f907b77a05d4045e246591582484420fafc0b86badb2ee051abe61025ea8f300": {
+      "signature": "f907b77a05d4045e246591582484420fafc0b86badb2ee051abe61025ea8f300",
+      "alternativeSignatures": [
+        "bc2a4645c4183b1fa303c5b7fdfb89a9d2fdc4a1cf5284e8522fb611939dc892"
+      ],
+      "target": "/sdk/peering/Microsoft.Azure.Management.Peering/src/Generated/PeeringServiceLocationsOperationsExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "8b48105169edb157c6c1ea427646409b5340c93e36a65ec5cc341b322eba7a9b": {
+      "signature": "8b48105169edb157c6c1ea427646409b5340c93e36a65ec5cc341b322eba7a9b",
+      "alternativeSignatures": [
+        "56ad56b9c4c30c8397e72c84b6c6467e4bf517aeb39b94aa0feb25e058f426fc"
+      ],
+      "target": "/sdk/securitycenter/Microsoft.Azure.Management.SecurityCenter/src/Generated/AdaptiveApplicationControlsOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "ea1d0d02d67daedd553467f0e496a6a50690e6e8a6ed4312f904fd01f6079989": {
+      "signature": "ea1d0d02d67daedd553467f0e496a6a50690e6e8a6ed4312f904fd01f6079989",
+      "alternativeSignatures": [
+        "3b17aa97406982348387719a7e7cee3c1f5543ebe35f0f0c46c55f282ad1b5d1"
+      ],
+      "target": "/sdk/apimanagement/Microsoft.Azure.Management.ApiManagement/src/Generated/Models/ReportRecordContract.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "337c3ecee4d9059edc2d9bcb2c517f651c3651213a3e45cfda1356f9eb1d1113": {
+      "signature": "337c3ecee4d9059edc2d9bcb2c517f651c3651213a3e45cfda1356f9eb1d1113",
+      "alternativeSignatures": [
+        "54b84ea274f04bec9486c7a5cad662adfc5f5671aedf04a3d0348b08b53c98f0"
+      ],
+      "target": "/sdk/billing/Microsoft.Azure.Management.Billing/src/Generated/Models/AddressDetails.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "49d7557d54ff27f2336646f33224d0f5b17255efe4ddffa83c75526430c857d8": {
+      "signature": "49d7557d54ff27f2336646f33224d0f5b17255efe4ddffa83c75526430c857d8",
+      "alternativeSignatures": [
+        "3a6f6e5ead32d55fd42ce9cdfd0313f1a0f75be8fbc27546114890c5419f55dd"
+      ],
+      "target": "/sdk/cdn/Microsoft.Azure.Management.Cdn/src/Generated/Models/GeoFilter.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "ec9da31b9fe2bb9fb0ac32a4ceb2e8af499ff982b9d65cb9de3aaefc6d59ba9e": {
+      "signature": "ec9da31b9fe2bb9fb0ac32a4ceb2e8af499ff982b9d65cb9de3aaefc6d59ba9e",
+      "alternativeSignatures": [
+        "f9f2bdc19e06f0494b13c2eb135b77980af8f726face375c659bf097bd037cd7"
+      ],
+      "target": "/sdk/cdn/Microsoft.Azure.Management.Cdn/src/Generated/Models/LogMetricsGroupBy.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "3d6e505980a4e28a9da79d634bb1abbd053ec0d8bfb96fcbd1b62bafa2ee8b9f": {
+      "signature": "3d6e505980a4e28a9da79d634bb1abbd053ec0d8bfb96fcbd1b62bafa2ee8b9f",
+      "alternativeSignatures": [
+        "02b34ad44246f7abf0bdc281b0f1150c4085acf5eabb9f68f328efc598325a0e"
+      ],
+      "target": "/sdk/cdn/Microsoft.Azure.Management.Cdn/src/Generated/Models/WafRankingType.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "d05c1a58338395b3a90a7cc3fba225eb45d2b7132b1d20564005706c61148d77": {
+      "signature": "d05c1a58338395b3a90a7cc3fba225eb45d2b7132b1d20564005706c61148d77",
+      "alternativeSignatures": [
+        "7e520c703eda5b72ad0ca7cbd02ff6009b2c4632adbad1db640dec83a2c965af"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingAutoSuggest/src/Generated/AutoSuggest/AutoSuggestClient.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "d1be515cd091596825337391279910e669fd33777b23949a41baa30a0e7b1212": {
+      "signature": "d1be515cd091596825337391279910e669fd33777b23949a41baa30a0e7b1212",
+      "alternativeSignatures": [
+        "4b84c72e9ed81cf686764266e502bfc20d1d0f5080e028d32ff0ae54ff98c595"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingAutoSuggest/src/Generated/AutoSuggest/AutoSuggestClientExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "faaf9f1b6fde810a53832133f834e23867ebd32d440ed5f123f1c99061752795": {
+      "signature": "faaf9f1b6fde810a53832133f834e23867ebd32d440ed5f123f1c99061752795",
+      "alternativeSignatures": [
+        "03af3b4c5692d40b5611912e1ca7ec5b0eb565c866d572588f240fbb1b42af8d"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingAutoSuggest/src/Generated/AutoSuggest/IAutoSuggestClient.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "a70de7c7599ca10e49a251ecb4d16a46e5bbcf6b96cfa38c232f6d1118732e82": {
+      "signature": "a70de7c7599ca10e49a251ecb4d16a46e5bbcf6b96cfa38c232f6d1118732e82",
+      "alternativeSignatures": [
+        "13348d61535bb0c1c9da7de2831a376bf15269bd5ab96926a323b9c2408e105d"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingCustomImageSearch/src/Generated/CustomImageSearch/CustomInstance.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "418c6e3b6020c52005e8e491e1f7d5b3e45acb6d743671abe5d6ff8d518b8d30": {
+      "signature": "418c6e3b6020c52005e8e491e1f7d5b3e45acb6d743671abe5d6ff8d518b8d30",
+      "alternativeSignatures": [
+        "32cbf92340fe2692724d8d1c0580e75f8b907d948b43e835d1bd2864eab7f60c"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingCustomImageSearch/src/Generated/CustomImageSearch/CustomInstanceExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "4130defb35a5ceaa69b06691a0d56888d41fc4bde8155735bd8ea223465c1659": {
+      "signature": "4130defb35a5ceaa69b06691a0d56888d41fc4bde8155735bd8ea223465c1659",
+      "alternativeSignatures": [
+        "fcbef0c27c6b5c3ed7361a484feaccd620355053358dc8fdb9855d1729e8a7b5"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingCustomImageSearch/src/Generated/CustomImageSearch/ICustomInstance.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "de9963fbb4e54feabaa640cb9d8c01eee66935ebc5bcbcc5a42d8a07fdc56a50": {
+      "signature": "de9963fbb4e54feabaa640cb9d8c01eee66935ebc5bcbcc5a42d8a07fdc56a50",
+      "alternativeSignatures": [
+        "bd17b84a87783b7269a5a3a8b4110cbdc0098ca2f510494791e6995a04cf765b"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingCustomSearch/src/Generated/CustomSearch/CustomInstance.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "1af44c6ef0250c12d9af07152e83020009a29a205d80ef8e89ebb9c83af51ba7": {
+      "signature": "1af44c6ef0250c12d9af07152e83020009a29a205d80ef8e89ebb9c83af51ba7",
+      "alternativeSignatures": [
+        "0a3399f37fac90bba53864b384f33c944f6f9c8d663ca4e6928394e8152942bb"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingCustomSearch/src/Generated/CustomSearch/CustomInstanceExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "54097a108a51273c608de0d0dcb13781350476fa17b363e939dc730af0f3880e": {
+      "signature": "54097a108a51273c608de0d0dcb13781350476fa17b363e939dc730af0f3880e",
+      "alternativeSignatures": [
+        "6b55da6608471f6a4a593224a4c3f0c595bbf60bb8d314c3f4dad2c8078d50ad"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingCustomSearch/src/Generated/CustomSearch/ICustomInstance.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "2fd5cb6d5a76e71997fe7afb60951b3df8ee99db183be3a26c9b9c606503eb55": {
+      "signature": "2fd5cb6d5a76e71997fe7afb60951b3df8ee99db183be3a26c9b9c606503eb55",
+      "alternativeSignatures": [
+        "2ee9838a477ec2f3de304b461b5a6380294b39846ce8aef5168e00cf68b9ef20"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingEntitySearch/src/Generated/EntitySearch/EntitiesOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "5dc5bdddef47aacd9049d24dfad3f6d4f26f4611b9bc5ee7d5b326ae2c9bdda7": {
+      "signature": "5dc5bdddef47aacd9049d24dfad3f6d4f26f4611b9bc5ee7d5b326ae2c9bdda7",
+      "alternativeSignatures": [
+        "e8ce8444b4dc0bade457ab2194b600b336d85c70578f3358669f9c8831343b17"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingEntitySearch/src/Generated/EntitySearch/EntitiesOperationsExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "9042662dc56b896e6334b3431bfe15dbe1c952ce26fdea341e93016854c1d110": {
+      "signature": "9042662dc56b896e6334b3431bfe15dbe1c952ce26fdea341e93016854c1d110",
+      "alternativeSignatures": [
+        "46b4bcfc02c21fe34aa8946015bf7a8c7b7c676e75302794271376c67b2b7e0c"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingEntitySearch/src/Generated/EntitySearch/EntitySearchClient.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "146399464c3843c94817327874de7bb3a302f12466d93aa4590b8d1029c7fd92": {
+      "signature": "146399464c3843c94817327874de7bb3a302f12466d93aa4590b8d1029c7fd92",
+      "alternativeSignatures": [
+        "583c16a6045353cc47ec9ec4ae4e7ac0c5d5cf817cfa57d042620d3724e4e2cb"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingEntitySearch/src/Generated/EntitySearch/IEntitiesOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "f57010b4622648128b8f8f0c3b2e96d90d390fd0110216234d8775e90bf22d2b": {
+      "signature": "f57010b4622648128b8f8f0c3b2e96d90d390fd0110216234d8775e90bf22d2b",
+      "alternativeSignatures": [
+        "aff3cadbbf0a56b733dc34e58521f9cbcdf40bbecb7fb54860c6ddf88517f31f"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingEntitySearch/src/Generated/EntitySearch/IEntitySearchClient.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "891e495c16ad867040c2e4c132424550a586d9915ff54ad67c5c9e3397d1acef": {
+      "signature": "891e495c16ad867040c2e4c132424550a586d9915ff54ad67c5c9e3397d1acef",
+      "alternativeSignatures": [
+        "c0993e6c2e4e2f5df40c2700448d0cc473966302aa604beaf0051c2c97b47ef4"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingImageSearch/src/Generated/ImageSearch/IImagesOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "87ab1d736875f175b511942d3df943205515c33fb81927b08fb51a373fb1b158": {
+      "signature": "87ab1d736875f175b511942d3df943205515c33fb81927b08fb51a373fb1b158",
+      "alternativeSignatures": [
+        "ceb0f97924e12af11a2136e3359e6cb3d2b56688896b41d9a73cea7f4866e664"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingImageSearch/src/Generated/ImageSearch/ImagesOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "ba966c8ea00096440a5e34242f2f8617979cae7baf1aa285d80f3cb183a0f251": {
+      "signature": "ba966c8ea00096440a5e34242f2f8617979cae7baf1aa285d80f3cb183a0f251",
+      "alternativeSignatures": [
+        "7229dd019fb54bd57895f0865d9f38ec2801e5807cb0ca9d9d14ebacfbbd8f28"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingImageSearch/src/Generated/ImageSearch/ImagesOperationsExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "a02faf2b332553f834a0022a49f75ebedeee3843b220133664ccb013625d75a1": {
+      "signature": "a02faf2b332553f834a0022a49f75ebedeee3843b220133664ccb013625d75a1",
+      "alternativeSignatures": [
+        "e2005549b62759ddba59affdba1d431c4b36172115828841cb3d7d95b0615142"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingLocalSearch/src/Generated/LocalSearch/ILocal.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "fb3e9405481f7a4958eb63e25d7c68f581a9b594020f4c4d975fc0abaff23a72": {
+      "signature": "fb3e9405481f7a4958eb63e25d7c68f581a9b594020f4c4d975fc0abaff23a72",
+      "alternativeSignatures": [
+        "a2962676f206be2b13b499c2d70a0fca70336deddf89e8b8483e98de3eb42e8c"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingLocalSearch/src/Generated/LocalSearch/Local.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "c48682291fc1bc04eeab0f98321927aa5218b3482049772e409a21e7d68b8a76": {
+      "signature": "c48682291fc1bc04eeab0f98321927aa5218b3482049772e409a21e7d68b8a76",
+      "alternativeSignatures": [
+        "3f5d112ead6069112a7766b8fb292a6a9909b5c7ef505122bc189e2e53f41900"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingLocalSearch/src/Generated/LocalSearch/LocalExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "4a2589fe825c8a7c71672d61f2e0160f429d52296b22e71bf573d5e173ca4649": {
+      "signature": "4a2589fe825c8a7c71672d61f2e0160f429d52296b22e71bf573d5e173ca4649",
+      "alternativeSignatures": [
+        "c965ccfb7ddc51e116b22622fcd109209419f92ed6763ce11052a785fba0e06e"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingNewsSearch/src/Generated/NewsSearch/INewsOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "5585046adeb5553528be77e97e7f309f7695316ac140eb3addaccc69a26e843f": {
+      "signature": "5585046adeb5553528be77e97e7f309f7695316ac140eb3addaccc69a26e843f",
+      "alternativeSignatures": [
+        "2589fb992570b0fff8971b1e9a990ce95dc069ef288a089d2a65e8ccab941d7a"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingNewsSearch/src/Generated/NewsSearch/NewsOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "8500f238b888c0321298ce7f52827a015a409648a42ab53429129ee0a23e9bb0": {
+      "signature": "8500f238b888c0321298ce7f52827a015a409648a42ab53429129ee0a23e9bb0",
+      "alternativeSignatures": [
+        "fd2eceb40d578bd123e2b8b0acfeb46b6526167e15862882e079fb85e47fd5ec"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingNewsSearch/src/Generated/NewsSearch/NewsOperationsExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "779f8c4ab34bb5bd29aaf63ed91159e864a2a724dc239f39178309994408c91d": {
+      "signature": "779f8c4ab34bb5bd29aaf63ed91159e864a2a724dc239f39178309994408c91d",
+      "alternativeSignatures": [
+        "a70431130a4482babc68349c2ec776eb507482f0570b9af9f94f06b87d2793c4"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingVideoSearch/src/Generated/VideoSearch/IVideosOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "ca1beedde4943e379e25985071df7716cc3902440c95432ee70deb4425a9e5ee": {
+      "signature": "ca1beedde4943e379e25985071df7716cc3902440c95432ee70deb4425a9e5ee",
+      "alternativeSignatures": [
+        "935546a8b9a545004dd9fd4578216dd1684230a5f9abfe42c30813a51c1b654f"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingVideoSearch/src/Generated/VideoSearch/VideosOperations.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "f1de382495343fa71605983bd2d46e58053a0676647e6a3c5c86962b53e3f2ea": {
+      "signature": "f1de382495343fa71605983bd2d46e58053a0676647e6a3c5c86962b53e3f2ea",
+      "alternativeSignatures": [
+        "402e506fc1d53e941cd8a3b4b373da2a4e24f847b15abe11c5a06b39494e2bca"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingVideoSearch/src/Generated/VideoSearch/VideosOperationsExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "2220dbab25a23fd31afcc121d79420245def935a2e52c712dc7ef1bcbaea95d9": {
+      "signature": "2220dbab25a23fd31afcc121d79420245def935a2e52c712dc7ef1bcbaea95d9",
+      "alternativeSignatures": [
+        "9c73c0b94513ebfbd85cd36ef77c65f5739f1e37f8d0cd51253fc04f95a47ded"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingWebSearch/src/Generated/WebSearch/IWeb.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "db918fa4fbc8ebbdb74b2f94ef138f6bb769eb95e557b5c58d06f81f05b3a21e": {
+      "signature": "db918fa4fbc8ebbdb74b2f94ef138f6bb769eb95e557b5c58d06f81f05b3a21e",
+      "alternativeSignatures": [
+        "131b368847b24b8d7eb8bf1e350c08b289316caf6a2f6931d59a92f1b1431844"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingWebSearch/src/Generated/WebSearch/Web.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "7a57f0a6b03c5cf15d9b01bde6e1d7e89e4dba6e1d92fbf61404edba29906cd4": {
+      "signature": "7a57f0a6b03c5cf15d9b01bde6e1d7e89e4dba6e1d92fbf61404edba29906cd4",
+      "alternativeSignatures": [
+        "86b7e54731b0ee4a1eb3ecc914462b3bf8082b4efa1a0fe665bb51f57311f1be"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingWebSearch/src/Generated/WebSearch/WebExtensions.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "e7f196e8ad6416803f9f8cae6888f6137f6c1bc6d656f54bed2977c85b175d1f": {
+      "signature": "e7f196e8ad6416803f9f8cae6888f6137f6c1bc6d656f54bed2977c85b175d1f",
+      "alternativeSignatures": [
+        "e67aa7cf32d2276d0e0e1a09a2007069e551b2e27ab78d53b5eedea85e67d896"
+      ],
+      "target": "/sdk/communication/Azure.Communication.PhoneNumbers/src/Generated/Models/PurchasedPhoneNumber.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "1ed33e801d44dab4350188dd231568afadf70c558bac1f1c0d87f5231f5e09ad": {
+      "signature": "1ed33e801d44dab4350188dd231568afadf70c558bac1f1c0d87f5231f5e09ad",
+      "alternativeSignatures": [
+        "2c4a65e322aea3b00720fdb98b1e198fef42487b8ac9aa2f17815fbaa0105174"
+      ],
+      "target": "/sdk/databox/Microsoft.Azure.Management.DataBox/src/Generated/Models/AvailableSkuRequest.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "ecd9c0e950c2c6a60ddd7d77e378f50bf95230af6a2d8597ef50ebce93cfee3a": {
+      "signature": "ecd9c0e950c2c6a60ddd7d77e378f50bf95230af6a2d8597ef50ebce93cfee3a",
+      "alternativeSignatures": [
+        "31661bf5c3c832271cb26e389646f87253144218f53aa2dc0ba7a74bf89d6034"
+      ],
+      "target": "/sdk/databox/Microsoft.Azure.Management.DataBox/src/Generated/Models/DataBoxScheduleAvailabilityRequest.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "ffba78299d1ea86c93372635464c04e609dfbdc19aba3c1660982e98aecc6b72": {
+      "signature": "ffba78299d1ea86c93372635464c04e609dfbdc19aba3c1660982e98aecc6b72",
+      "alternativeSignatures": [
+        "88f3850ba56545b21c6e48b8e4515931015fac29c7c92510fd1c7f8a9cadd178"
+      ],
+      "target": "/sdk/databox/Microsoft.Azure.Management.DataBox/src/Generated/Models/DiskScheduleAvailabilityRequest.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "94c1fce091a11272e973effd6b28af760abe4e56b7fa18bb9a92e96902036b83": {
+      "signature": "94c1fce091a11272e973effd6b28af760abe4e56b7fa18bb9a92e96902036b83",
+      "alternativeSignatures": [
+        "5ad8d7016114d6551889cd9fb059495356c50f32aad46ede39b869a4681f34ab"
+      ],
+      "target": "/sdk/databox/Microsoft.Azure.Management.DataBox/src/Generated/Models/HeavyScheduleAvailabilityRequest.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "4538ba473f20fbfa4dbc6b9f05b5c2d063649d9ab8899ca7bf96d8f9aa5080a3": {
+      "signature": "4538ba473f20fbfa4dbc6b9f05b5c2d063649d9ab8899ca7bf96d8f9aa5080a3",
+      "alternativeSignatures": [
+        "ae58b1e149808961e9ce996f3bbe1043abbe74583d900872db60e4e03894d70e"
+      ],
+      "target": "/sdk/databox/Microsoft.Azure.Management.DataBox/src/Generated/Models/ScheduleAvailabilityRequest.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "0493316cae1e1a0df662d0e5cfe16bafa215ed1633d665da2053c25a2acd5c04": {
+      "signature": "0493316cae1e1a0df662d0e5cfe16bafa215ed1633d665da2053c25a2acd5c04",
+      "alternativeSignatures": [
+        "b2dd0cb29a54b0d39f2bc12cbc89293ceeb70f11bd6563cf7e9853d682574596"
+      ],
+      "target": "/sdk/databox/Microsoft.Azure.Management.DataBox/src/Generated/Models/ShippingAddress.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "fbcd3ee3dbfe6e1bf32d11bf8616f91cd4f02f64f7f69f6f9bda3ab3541298c2": {
+      "signature": "fbcd3ee3dbfe6e1bf32d11bf8616f91cd4f02f64f7f69f6f9bda3ab3541298c2",
+      "alternativeSignatures": [
+        "8ac068466724a251b3dd0cde817d14fe8f19b31bbe4759812169f56d6784a5d1"
+      ],
+      "target": "/sdk/databox/Microsoft.Azure.Management.DataBox/src/Generated/Models/SkuAvailabilityValidationRequest.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "480206d09729f93c0c3f80fa735bed0ad5a7e8ceb4a398a63a412340eea11a55": {
+      "signature": "480206d09729f93c0c3f80fa735bed0ad5a7e8ceb4a398a63a412340eea11a55",
+      "alternativeSignatures": [
+        "a122d75a8435c22a67d070ddaa0ee1490822eaaff1895301ad010de913139fe0"
+      ],
+      "target": "/sdk/databox/Microsoft.Azure.Management.DataBox/src/Generated/Models/SkuDisabledReason.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "e2cb19dc2ae8eb7eb21c22b474ddca7049114bcf4240fff97ec33dec90026628": {
+      "signature": "e2cb19dc2ae8eb7eb21c22b474ddca7049114bcf4240fff97ec33dec90026628",
+      "alternativeSignatures": [
+        "2eb0880d1c6238f1b6ffc03ee9c7ccf9552c88b6754d466bb33f8bc538b8743e"
+      ],
+      "target": "/sdk/databox/Microsoft.Azure.Management.DataBox/src/Generated/Models/SkuInformation.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "afea4a4ca2e8b391a344f7de6c62f1321b248641355ba49e714f2d6e9ffcfa2c": {
+      "signature": "afea4a4ca2e8b391a344f7de6c62f1321b248641355ba49e714f2d6e9ffcfa2c",
+      "alternativeSignatures": [
+        "588c79018ba98d1630757bafaaaf5f993ed2a23cc56637f034bc4b7cc2daf285"
+      ],
+      "target": "/sdk/databoxedge/Microsoft.Azure.Management.DataBoxEdge/src/Generated/Models/Address.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "5f5dde673acc598a13f519ac25e80cf1f7fec5a7f85de0959796eecf20bdcf07": {
+      "signature": "5f5dde673acc598a13f519ac25e80cf1f7fec5a7f85de0959796eecf20bdcf07",
+      "alternativeSignatures": [
+        "34fd3ace6e71c71d0dcb2df23b372230c898de0882677747fe04256578374a57"
+      ],
+      "target": "/sdk/edgegateway/Microsoft.Azure.Management.EdgeGateway/src/Generated/Models/Address.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "07dde289852ef86b4463e7a17fb0e843820b17b1dc060fe479cb5eedad1ff1bd": {
+      "signature": "07dde289852ef86b4463e7a17fb0e843820b17b1dc060fe479cb5eedad1ff1bd",
+      "alternativeSignatures": [
+        "a394f9b9bdd121b5da8e10af998569499a0680318749fb543d8827186e0f5232"
+      ],
+      "target": "/sdk/elastic/Microsoft.Azure.Management.Elastic/src/Generated/Models/CompanyInfo.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "ad11cefd53246c18ffcbacdded556d080941e4bad276910cbc33e1ccc79bfe15": {
+      "signature": "ad11cefd53246c18ffcbacdded556d080941e4bad276910cbc33e1ccc79bfe15",
+      "alternativeSignatures": [
+        "6bc81b0153bf173065bb6f4df7234e06b722e28150d09cdf4634bdf121c90374"
+      ],
+      "target": "/sdk/frontdoor/Microsoft.Azure.Management.FrontDoor/src/Generated/Models/LatencyScorecard.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "51ef35f56a3a29b155e152caa25f74f169f41efcadb53ea3b1f55d8ffd140895": {
+      "signature": "51ef35f56a3a29b155e152caa25f74f169f41efcadb53ea3b1f55d8ffd140895",
+      "alternativeSignatures": [
+        "b212091a2b57de1999164c5d22184498fa866b5a38b1d78208312ceecc9a22da"
+      ],
+      "target": "/sdk/frontdoor/Microsoft.Azure.Management.FrontDoor/src/Generated/Models/Timeseries.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "cd1b817bfb0cc486e5180d2a2038ce9239497d343e4b861c0722ab5842d32188": {
+      "signature": "cd1b817bfb0cc486e5180d2a2038ce9239497d343e4b861c0722ab5842d32188",
+      "alternativeSignatures": [
+        "12d12bbd6a4b7d89b4043ee67244096b88365e43a16a568c30da1b9964ecaa2d"
+      ],
+      "target": "/sdk/graphrbac/Microsoft.Azure.Graph.RBAC/src/Generated/Models/User.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "b932029b70a953eda53730646fcff6b6ac0886bdd903fa64c09a3a2693a359ce": {
+      "signature": "b932029b70a953eda53730646fcff6b6ac0886bdd903fa64c09a3a2693a359ce",
+      "alternativeSignatures": [
+        "3207120b12bf0eff7a706f1bbbe9dbb18c66d74495b34475bdaafecfea52d234"
+      ],
+      "target": "/sdk/graphrbac/Microsoft.Azure.Graph.RBAC/src/Generated/Models/UserBase.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "fd93c97ca1d52aa840fec1e3fe6822d4af41769c2e3da63a457f623065a2665f": {
+      "signature": "fd93c97ca1d52aa840fec1e3fe6822d4af41769c2e3da63a457f623065a2665f",
+      "alternativeSignatures": [
+        "bac183c2319dfdad64dffc2991e23dfc1abff408a312ce11d9543d75d9a44eab"
+      ],
+      "target": "/sdk/graphrbac/Microsoft.Azure.Graph.RBAC/src/Generated/Models/UserCreateParameters.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "b0134297fdb42b373c45238d7833ba70d2731198306ec812fed23ae64fc50452": {
+      "signature": "b0134297fdb42b373c45238d7833ba70d2731198306ec812fed23ae64fc50452",
+      "alternativeSignatures": [
+        "7852d36d0a27e1518055fceb365eafec3d9f4b202580bf16b0c900d397c332c7"
+      ],
+      "target": "/sdk/graphrbac/Microsoft.Azure.Graph.RBAC/src/Generated/Models/UserUpdateParameters.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "e1da8e08e4a95499cebc29234c3515a49f0a3d6cb1c93d989cd8bc865074acf2": {
+      "signature": "e1da8e08e4a95499cebc29234c3515a49f0a3d6cb1c93d989cd8bc865074acf2",
+      "alternativeSignatures": [
+        "19ce562e38efde9e16cc2414cdcec7d90b4e0d82530dd39ab29a01ec541e7d09"
+      ],
+      "target": "/sdk/insights/Azure.ResourceManager.Insights/src/Generated/Models/RecurrentSchedule.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "22410115142e22efc514e7919056fb7f6528c85b3d3286fafda6986dbf880549": {
+      "signature": "22410115142e22efc514e7919056fb7f6528c85b3d3286fafda6986dbf880549",
+      "alternativeSignatures": [
+        "dc4e15b2a05a9ac7af4a54ad5554f08a04b1e7e79a31b697ea3f495dbdef43ff"
+      ],
+      "target": "/sdk/insights/Azure.ResourceManager.Insights/src/Generated/Models/TimeWindow.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "c6e97ac39201205c1e988426c03e4c7cbd1abdc6213bc7e17a58e487b4cbe888": {
+      "signature": "c6e97ac39201205c1e988426c03e4c7cbd1abdc6213bc7e17a58e487b4cbe888",
+      "alternativeSignatures": [
+        "58defc8c02025f2645ffd5efa7f26e1ecceef0b296fb0209da404ca1795061af"
+      ],
+      "target": "/sdk/metricsadvisor/Azure.AI.MetricsAdvisor/src/Models/DataFeed/DataFeedDimension.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "0a1485d6fcf90de688e6c91725dccd49dc793c4a52738fed42f0575c338b7e73": {
+      "signature": "0a1485d6fcf90de688e6c91725dccd49dc793c4a52738fed42f0575c338b7e73",
+      "alternativeSignatures": [
+        "730840ed51cff52c3d960577d7577ba70e178d13036c2a7c308a698ffeda2691"
+      ],
+      "target": "/sdk/monitor/Azure.Monitor.OpenTelemetry.Exporter/src/Generated/Models/ContextTagKeys.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "29dc7e369b859761dc73828d7cda0f57057013c45856a12acba496df7f9755f9": {
+      "signature": "29dc7e369b859761dc73828d7cda0f57057013c45856a12acba496df7f9755f9",
+      "alternativeSignatures": [
+        "85cad5822d52131846bff9aa461c09de5e2c603aab0c62f08fb581ec8c7b782a"
+      ],
+      "target": "/sdk/monitor/Microsoft.Azure.Management.Monitor/src/Generated/Models/RecurrentSchedule.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "74e62e0cb91deb813a1948be4b624966b6c7db81efaeaef35926bfa239d78e92": {
+      "signature": "74e62e0cb91deb813a1948be4b624966b6c7db81efaeaef35926bfa239d78e92",
+      "alternativeSignatures": [
+        "1cf9f334c85bf3ada2a5bee1d57f5574195da36bf5f72d64ee52228b23e415df"
+      ],
+      "target": "/sdk/monitor/Microsoft.Azure.Management.Monitor/src/Generated/Models/TimeWindow.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "a59a76d55e6c8dff7cbf45d8f5c9804f44cd68d14f335c1451d9658e119892b5": {
+      "signature": "a59a76d55e6c8dff7cbf45d8f5c9804f44cd68d14f335c1451d9658e119892b5",
+      "alternativeSignatures": [
+        "650db65f862c917c49da11789e3de993dbf035249c65fd74dd3169c6a35a3ae4"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/src/Generated/Models/AvailableProvidersList.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "c0eb3129bd063c7b3d9794f8c89f53b479ef3982ebaaf735236ecf4f2114a468": {
+      "signature": "c0eb3129bd063c7b3d9794f8c89f53b479ef3982ebaaf735236ecf4f2114a468",
+      "alternativeSignatures": [
+        "b985bf93cbe748b9dfba11845a898b85b46820c259ad4ed7e65bda5a313b7a4c"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/src/Generated/Models/AvailableProvidersList.Serialization.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "14541ea19da39f1b9a63ab49627a143de82f657e6623dac7ceb8d4073183b12e": {
+      "signature": "14541ea19da39f1b9a63ab49627a143de82f657e6623dac7ceb8d4073183b12e",
+      "alternativeSignatures": [
+        "8a6af426b24251786d6ec794324a42a62642094a462841857e6808a38f6b23b9"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/src/Generated/Models/AvailableProvidersListCountry.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "6075e49bc93c23ca47b26c889937e662727f35fcc1275b01a1d604aec593cdc3": {
+      "signature": "6075e49bc93c23ca47b26c889937e662727f35fcc1275b01a1d604aec593cdc3",
+      "alternativeSignatures": [
+        "30044806acde9d02c51498f4a6a021eb7f954e38e4d07f4745cf6399e8f604eb"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/src/Generated/Models/AvailableProvidersListParameters.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "2c333a8b564bd1ff55db8c8df113fb2c4004bf4cde074bd0d62254752aad315c": {
+      "signature": "2c333a8b564bd1ff55db8c8df113fb2c4004bf4cde074bd0d62254752aad315c",
+      "alternativeSignatures": [
+        "5e8e4f75832cd140b906c3fef92af7fd12cfa76e6239d3c4a6ca33f80251aceb"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/src/Generated/Models/AvailableProvidersListParameters.Serialization.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "9bde9dc128a81d28f22518c53da698746a35b06ba9f6907dd165a19e2d29f347": {
+      "signature": "9bde9dc128a81d28f22518c53da698746a35b06ba9f6907dd165a19e2d29f347",
+      "alternativeSignatures": [
+        "2dcaf447f97d0eabb535625cd5e2bc83413520bf71314ecf05fea5b03cf83fa6"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/src/Generated/Models/AzureReachabilityReport.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "08cdd4a8934d282b847fda421b3b01f32fea61cf5e082c586bcf1f59029dc7ce": {
+      "signature": "08cdd4a8934d282b847fda421b3b01f32fea61cf5e082c586bcf1f59029dc7ce",
+      "alternativeSignatures": [
+        "4455eb5982e46250386d2b2ed2faae11913f98b1700f051b7b9e3117f417df55"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/src/Generated/Models/AzureReachabilityReportLocation.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "5c21a9c0256da52ad4054bdbcd76941092fa03bc6901e9c18ee218f7f599312c": {
+      "signature": "5c21a9c0256da52ad4054bdbcd76941092fa03bc6901e9c18ee218f7f599312c",
+      "alternativeSignatures": [
+        "e2df63ad150dc287d5cb9cae3e2a16a66a13a194a262df583e8dd760bdca05eb"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/src/Generated/Models/AzureReachabilityReportLocation.Serialization.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "f5ddb4734737a44cea098703c470f1937127fd6193b5b21fcb9795753cd1795e": {
+      "signature": "f5ddb4734737a44cea098703c470f1937127fd6193b5b21fcb9795753cd1795e",
+      "alternativeSignatures": [
+        "344418910d49f9132148980563024ed9c3672025dd5c3ffd0774b30e69367de5"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/src/Generated/Models/FirewallPolicy.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "e6b489aff8927df0059e939714f68e93caa561ecc63dea1dc285280b99ea8ec9": {
+      "signature": "e6b489aff8927df0059e939714f68e93caa561ecc63dea1dc285280b99ea8ec9",
+      "alternativeSignatures": [
+        "6d8ceb1b00bd70fddc0b9687780143300ab702ec073fa36a3668152ea832569e"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/src/Generated/Models/FirewallPolicy.Serialization.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "394c84ea6618ccd34c3e025101d002296b896b409009af24b200ac17b152f497": {
+      "signature": "394c84ea6618ccd34c3e025101d002296b896b409009af24b200ac17b152f497",
+      "alternativeSignatures": [
+        "3078603260f2ccbfdc96628a1843e8a3990c97b5b8a8eaa623cd041f50b16c83"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/src/Generated/Models/FirewallPolicyThreatIntelWhitelist.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "6c643f95cde5892e13dee3fb0d894549afee8815105ecccfbd547a958db6cccd": {
+      "signature": "6c643f95cde5892e13dee3fb0d894549afee8815105ecccfbd547a958db6cccd",
+      "alternativeSignatures": [
+        "b37857b032219cd327de8478c4a1ce36906a1f801c582c4ad25b46ad17fa058e"
+      ],
+      "target": "/sdk/network/Azure.ResourceManager.Network/src/Generated/Models/FirewallPolicyThreatIntelWhitelist.Serialization.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "9260843495b1d2bd4ed3281b8b4b1ee8a70e0068880c681aa579db9a946ae405": {
+      "signature": "9260843495b1d2bd4ed3281b8b4b1ee8a70e0068880c681aa579db9a946ae405",
+      "alternativeSignatures": [
+        "b2996fccb98bca423940a408ec59e8d66f3258385fba799d297bc2658ee49895"
+      ],
+      "target": "/sdk/network/Microsoft.Azure.Management.Network/src/Generated/Models/AvailableProvidersList.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "d0a34c24de453673c4710a561b288c427fea2eedf9b65fd8a840c7c315ec7e38": {
+      "signature": "d0a34c24de453673c4710a561b288c427fea2eedf9b65fd8a840c7c315ec7e38",
+      "alternativeSignatures": [
+        "a1dc59af78bb2b9315723d446af4b0dff5474c0ee60ee7ba3bd6eec4d9f269c1"
+      ],
+      "target": "/sdk/network/Microsoft.Azure.Management.Network/src/Generated/Models/AvailableProvidersListCountry.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "dd507d58ec18dd9eaaf53097d276f691a7d1a50cb3037f34f934c9df7f35cdf2": {
+      "signature": "dd507d58ec18dd9eaaf53097d276f691a7d1a50cb3037f34f934c9df7f35cdf2",
+      "alternativeSignatures": [
+        "6c3eefabb4239d11d25ce655a2bf0f214f167a593521397b80146f23e737cb47"
+      ],
+      "target": "/sdk/network/Microsoft.Azure.Management.Network/src/Generated/Models/AvailableProvidersListParameters.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "285e0b49f2d4434eb3435a90d5ee508e09cd0f532861bdf361826c2deccdc508": {
+      "signature": "285e0b49f2d4434eb3435a90d5ee508e09cd0f532861bdf361826c2deccdc508",
+      "alternativeSignatures": [
+        "944eefbc1093995011b31e14df66d1c829ebec802d53619c026c9b11e45bc1b2"
+      ],
+      "target": "/sdk/network/Microsoft.Azure.Management.Network/src/Generated/Models/AzureReachabilityReport.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "a4fabfd4add3040bf3d33bb28ed02d4f442488e4cba9af8870b00a812c938f0f": {
+      "signature": "a4fabfd4add3040bf3d33bb28ed02d4f442488e4cba9af8870b00a812c938f0f",
+      "alternativeSignatures": [
+        "7c40412e09dc3741966e2a2195475f7206f23ca6d5f4ad81598ac7d303251ab8"
+      ],
+      "target": "/sdk/network/Microsoft.Azure.Management.Network/src/Generated/Models/AzureReachabilityReportLocation.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "5d98661a6cbb8e216fedd05c231649192babd4794b94a8dcf9b36eb058695773": {
+      "signature": "5d98661a6cbb8e216fedd05c231649192babd4794b94a8dcf9b36eb058695773",
+      "alternativeSignatures": [
+        "5d2e658eaa628d83b874d00df69a7a44acba6a91f9cc4c64ec0405292852489d"
+      ],
+      "target": "/sdk/network/Microsoft.Azure.Management.Network/src/Generated/Models/FirewallPolicy.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "2656d70b906542f59a38f933b1ec89300eb540064d915e31ec7ac5e1fd96a45f": {
+      "signature": "2656d70b906542f59a38f933b1ec89300eb540064d915e31ec7ac5e1fd96a45f",
+      "alternativeSignatures": [
+        "0a334b85ba2a55d4b63d5ae9689f7d7401a2582c7186dc4766078d1adb8e917e"
+      ],
+      "target": "/sdk/network/Microsoft.Azure.Management.Network/src/Generated/Models/FirewallPolicyThreatIntelWhitelist.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "4c83ab35ed240d56ced1d233dc66bcf780505e31a917446e48aeaa4dc06998c5": {
+      "signature": "4c83ab35ed240d56ced1d233dc66bcf780505e31a917446e48aeaa4dc06998c5",
+      "alternativeSignatures": [
+        "7b4a2e47eaaba13e4d81b722a556f3aaec66136542148b406a0577340103c074"
+      ],
+      "target": "/sdk/peering/Microsoft.Azure.Management.Peering/src/Generated/Models/PeeringLocation.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "77a8f784c22685bff2b5d750e3b1cacbdd30f0e9d230c558b97846a79056ec8e": {
+      "signature": "77a8f784c22685bff2b5d750e3b1cacbdd30f0e9d230c558b97846a79056ec8e",
+      "alternativeSignatures": [
+        "bf4ae48f6bf8527a511ac10bdc14f6c87d63d31e3b18a7351b4025ebac76d8ba"
+      ],
+      "target": "/sdk/peering/Microsoft.Azure.Management.Peering/src/Generated/Models/PeeringServiceCountry.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "195a404233ae73973746095d873c490d0ada914d745672df8ad00d208cf50a14": {
+      "signature": "195a404233ae73973746095d873c490d0ada914d745672df8ad00d208cf50a14",
+      "alternativeSignatures": [
+        "2e2e935e852d435b67441a5cf10adf2b71008be418c9d36392fcfd04d6be813d"
+      ],
+      "target": "/sdk/peering/Microsoft.Azure.Management.Peering/src/Generated/Models/PeeringServiceLocation.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "f8bc2d732126fa314f3c1a513b901d7d111b4ebde1d9b770092f5c9b5af2fe17": {
+      "signature": "f8bc2d732126fa314f3c1a513b901d7d111b4ebde1d9b770092f5c9b5af2fe17",
+      "alternativeSignatures": [
+        "57544c28ab1181fdfb6e7aee263f99fbf716c91ec74786b55dc42789916f8eb7"
+      ],
+      "target": "/sdk/resources/Azure.ResourceManager.Resources/src/Generated/Models/TenantIdDescription.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "f1dcb090dcffbd3a5151749d131e84c8ed0febf9d43874f1c6b437e661a755f8": {
+      "signature": "f1dcb090dcffbd3a5151749d131e84c8ed0febf9d43874f1c6b437e661a755f8",
+      "alternativeSignatures": [
+        "b044b27995a5f6552cac8add8c0b66086f32dd0079409c04f59e28b088a4bfb1"
+      ],
+      "target": "/sdk/resources/Azure.ResourceManager.Resources/src/Generated/Models/TenantIdDescription.Serialization.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "5acb666d46573ab6177e7fd87951a5e5125caed6a86562a1806f9665aa4ade26": {
+      "signature": "5acb666d46573ab6177e7fd87951a5e5125caed6a86562a1806f9665aa4ade26",
+      "alternativeSignatures": [
+        "a8a9ef52be2011368f707b18f2c0e59949ac2bf1fd31c12e788aaff78be6b1bd"
+      ],
+      "target": "/sdk/resources/Microsoft.Azure.Management.Resource/src/Generated/Models/TenantIdDescription.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "20049160464fff0178b35de8d9d04b4d6a1265f434ef25187374959f20753187": {
+      "signature": "20049160464fff0178b35de8d9d04b4d6a1265f434ef25187374959f20753187",
+      "alternativeSignatures": [
+        "56874e34ccd1587c00ba093f7d913d8b3a6c617926ee1f09fb284a5343c2154b"
+      ],
+      "target": "/sdk/search/Azure.Search.Documents/perf/Azure.Search.Documents.Perf/Infrastructure/Address.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "1e15b76e00cdd5115793dea486f76e52a156147de496d3d89079013be9a42afe": {
+      "signature": "1e15b76e00cdd5115793dea486f76e52a156147de496d3d89079013be9a42afe",
+      "alternativeSignatures": [
+        "107355f5babcb6a3ee8ef7bd7d8840f62f09910b2e3436ad36e1e5c9bdeed270"
+      ],
+      "target": "/sdk/search/Azure.Search.Documents/perf/Azure.Search.Documents.Perf/Infrastructure/DocumentGenerator.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "dca9c1c0d8b97fef8b37f29f9d9ce4e3aa64f5b0e776a598922ec5d4b8e8748d": {
+      "signature": "dca9c1c0d8b97fef8b37f29f9d9ce4e3aa64f5b0e776a598922ec5d4b8e8748d",
+      "alternativeSignatures": [
+        "b5cc42c958d783856a7f0830e9f9884f823463ddb14f1b1c56effc95aabddd92"
+      ],
+      "target": "/sdk/search/Azure.Search.Documents/src/Indexes/Models/SearchIndex.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "eda1a45acb3bf905d179d6edb20eacacc03f88212e80224d6c2820e2f733f213": {
+      "signature": "eda1a45acb3bf905d179d6edb20eacacc03f88212e80224d6c2820e2f733f213",
+      "alternativeSignatures": [
+        "115500fd775ec65e274cb0019f8b61cd5bed2efaa32f31511f8ca666bf2158a7"
+      ],
+      "target": "/sdk/securitycenter/Microsoft.Azure.Management.SecurityCenter/src/Generated/Models/PublisherInfo.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "1cc6f223b0a84f7b0f8737162d42c3805b135d6c57a928a1f2e241d226becc0f": {
+      "signature": "1cc6f223b0a84f7b0f8737162d42c3805b135d6c57a928a1f2e241d226becc0f",
+      "alternativeSignatures": [
+        "59a20ba9ac688d54f09538dcfef368f9fe5e178283124b493e39e0f1aebfe139"
+      ],
+      "target": "/sdk/support/Microsoft.Azure.Management.Support/src/Generated/Models/ContactProfile.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "d1543e077ac7a8520b84c22d94e0af8324cebc5cda6bef15ecec64e1356872cd": {
+      "signature": "d1543e077ac7a8520b84c22d94e0af8324cebc5cda6bef15ecec64e1356872cd",
+      "alternativeSignatures": [
+        "06596a05c77c456d41f50d7242e53ac0beb0c22a217b2d5702bb30af280eee58"
+      ],
+      "target": "/sdk/support/Microsoft.Azure.Management.Support/src/Generated/Models/UpdateContactProfile.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "88c6fd36fb2b7eeed161feb3892cb9d7c23c5e6752c2cc7e39454d169930c330": {
+      "signature": "88c6fd36fb2b7eeed161feb3892cb9d7c23c5e6752c2cc7e39454d169930c330",
+      "alternativeSignatures": [
+        "08dd9a5b7963cf73c13d8fc620be733bb57a3251cb2f08989f03d59751af78b8"
+      ],
+      "target": "/sdk/websites/Microsoft.Azure.Management.WebSites/src/Generated/Models/Address.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "e492d419b9a75e648347ac548fd8c54760624166d6ad66aacef31d8802be2863": {
+      "signature": "e492d419b9a75e648347ac548fd8c54760624166d6ad66aacef31d8802be2863",
+      "alternativeSignatures": [
+        "d8e0fe5c7dd4327ed5ffb6883b054e48e0ac3068709fe3f0c3c039da80087097"
+      ],
+      "target": "/sdk/websites/Microsoft.Azure.Management.WebSites/src/Generated/Models/AppServiceEnvironment.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "7ceadaaf4215b6689706ab24a9ba9406db536ef16668eb4c27bd1b8f9138a4d3": {
+      "signature": "7ceadaaf4215b6689706ab24a9ba9406db536ef16668eb4c27bd1b8f9138a4d3",
+      "alternativeSignatures": [
+        "a41564ae9cfbdd010f67223f96fb2a6750127e279d4aa20d254d100877be88b8"
+      ],
+      "target": "/sdk/websites/Microsoft.Azure.Management.WebSites/src/Generated/Models/AppServiceEnvironmentPatchResource.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "a9a5a34407107e3c89b355555a65123b51e832b537b0be63741228897a15048e": {
+      "signature": "a9a5a34407107e3c89b355555a65123b51e832b537b0be63741228897a15048e",
+      "alternativeSignatures": [
+        "2ad4247b1d63de2eef978fded6c4d9dde7a840fa03d8626aaddfc3bc7bb0e2ca"
+      ],
+      "target": "/sdk/websites/Microsoft.Azure.Management.WebSites/src/Generated/Models/AppServiceEnvironmentResource.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "9cd3469f785efc346c84be471a702389ac87c9b744f7c8decfb61e464273ab71": {
+      "signature": "9cd3469f785efc346c84be471a702389ac87c9b744f7c8decfb61e464273ab71",
+      "alternativeSignatures": [
+        "ae0488e6dea545725baf70d0ecf582a282512d9ae0e285b742e914c286c62d47"
+      ],
+      "target": "/sdk/websites/Microsoft.Azure.Management.WebSites/src/Generated/Models/PushSettings.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1004",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "80254cc9bd5fca624e7f88b78d72b636ada17063d71ee3b16815019c4ce841ce": {
+      "signature": "80254cc9bd5fca624e7f88b78d72b636ada17063d71ee3b16815019c4ce841ce",
+      "alternativeSignatures": [
+        "328687e7ddfe02d8e257eff7a4b059dee8e81235d5c59c229ea038513ebc1e7b"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingEntitySearch/src/Generated/EntitySearch/Models/EntityType.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "b29b6a1dc2b46d0f48c8a175d114d141a29eb50a063d6591c781052d13e09574": {
+      "signature": "b29b6a1dc2b46d0f48c8a175d114d141a29eb50a063d6591c781052d13e09574",
+      "alternativeSignatures": [
+        "2c1c01ede8ff2b2a4483d90d0057865448529efa0d98230fb5f9441b61fae78b"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingWebSearch/src/Generated/WebSearch/Models/TimeZone.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "56c2a2392c730f8e02fbc19ce010a5d9f33ff1f6f752c9149d15577709dd0d35": {
+      "signature": "56c2a2392c730f8e02fbc19ce010a5d9f33ff1f6f752c9149d15577709dd0d35",
+      "alternativeSignatures": [
+        "d7a5f8fdf6bbc16171aef90ee5e960187013ab96fb1e3a7b3f0096d6610e5052"
+      ],
+      "target": "/sdk/cognitiveservices/Search.BingWebSearch/src/Generated/WebSearch/Models/TimeZoneTimeZoneInformation.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "303ee2b2d15763e15c5b892fd8dee410bb827ad3a1a1bbbd89fef25a66ccfc3f": {
+      "signature": "303ee2b2d15763e15c5b892fd8dee410bb827ad3a1a1bbbd89fef25a66ccfc3f",
+      "alternativeSignatures": [
+        "3656cb425ed456354e6b11fa4d49e719eda179e7f40502339ab54b04a4405872"
+      ],
+      "target": "/sdk/insights/Microsoft.Azure.Management.Insights/src/Generated/Management/Insights/Models/RecurrentSchedule.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    },
+    "e765fbe92990bd97e21cf166fe77fa72155ad9383bdc953f5ee0865c064169bc": {
+      "signature": "e765fbe92990bd97e21cf166fe77fa72155ad9383bdc953f5ee0865c064169bc",
+      "alternativeSignatures": [
+        "1a5903d376d96e4fd142f784beca424bb2b688dc1657fda69ee5d5a91eced5df"
+      ],
+      "target": "/sdk/insights/Microsoft.Azure.Management.Insights/src/Generated/Management/Insights/Models/TimeWindow.cs",
+      "memberOf": [
+        "policheck"
+      ],
+      "tool": "policheck",
+      "ruleId": "PC1001",
+      "justification": null,
+      "createdDate": "2021-07-30 22:15:26Z",
+      "expirationDate": null,
+      "type": null
+    }
+  }
+}

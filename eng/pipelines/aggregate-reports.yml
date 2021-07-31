@@ -6,11 +6,6 @@ resources:
     branch: main
     tags: 
     - scheduled
-  repositories:
-    - repository: azure-sdk-build-tools
-      type: git
-      name: internal/azure-sdk-build-tools
-      ref: refs/heads/AddPoliCheckFilter
 
 trigger: none
 
@@ -161,7 +156,6 @@ stages:
         timeoutInMinutes: 120
         steps:
           - checkout: self
-          - checkout: azure-sdk-build-tools
             fetchDepth: 1
           - task: securedevelopmentteam.vss-secure-development-tools.build-task-policheck.PoliCheck@2
             displayName: 'Run PoliCheck'
